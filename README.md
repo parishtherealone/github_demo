@@ -1,8 +1,1 @@
-HI THIS IS MY GITHUB TUTORIAL
-
-git clone <link> 
-ls 
-git status
-git add
-git commit
-git push origin main
+Attached a new improvised image classification model, which was updated from the previously stored file in the same repository.
