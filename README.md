@@ -13,6 +13,6 @@ Model performance was evaluated using
           Validation Accuracy
           Test Accuracy
 
-Model accuracy ~ 90%
+Model accuracy ~ 84%
 
 Now the Improvised Model runs quite faster then the classic CNN model
