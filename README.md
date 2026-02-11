@@ -1,4 +1,4 @@
-Attached a new improvised image classification model, which used Transder learning, updated from the previously stored model in the same repository.
+Attached a new improvised image classification model, which used Transfer learning, updated from the previously stored model in the same repository.
 
 CIFAR-10 Image Classification using Transfer Learning
 
@@ -15,3 +15,4 @@ Model performance was evaluated using
 
 Model accuracy ~ 90%
 
+Now the Improvised Model runs quite faster then the classic CNN model
